@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.container {
+  width: 500px;
+  clear: both;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+.container input {
+  width: 100%;
+  clear: both;
+}
+
+table#t01 {
+  border: 1px solid black;
+  width: 500px;
+  text-align: left;
+  background-color: #F5FFFA;  
+}
+
+table#t02 {
+  width: 700px;
+  text-align: left;
+  background-color: #F5FFFA;  
+}
+
+td#td01 {
+  padding: 10px;
+  color: #4CAF50;
+
+}
+
+
+
+
